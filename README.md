@@ -16,7 +16,7 @@ This repository contains **two comprehensive guides** that cover everything you 
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
 │  ┌──────────────────┐        ┌──────────────────────┐   │
-│  │  IT FUNDAMENTALS │        │ CS FUNDAMENTALS      │ │
+│  │  IT FUNDAMENTALS │        │ CS FUNDAMENTALS      │   │
 │  ├──────────────────┤        ├──────────────────────┤ │
 │  │ • Hardware       │        │ • Programming        │ │
 │  │ • Software       │        │ • Problem Solving    │ │
