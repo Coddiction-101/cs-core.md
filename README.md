@@ -22,7 +22,7 @@ This repository contains **two comprehensive guides** that cover everything you 
 │  │ • Software       │        │ • Problem Solving    │   │
 │  │ • Networks       │        │ • Algorithms         │   │
 │  │ • Systems        │        │ • Data Structures    │   │
-│  │ • Security       │        │ • OOP/FP             │ │
+│  │ • Security       │        │ • OOP/FP             │   │
 │  │ • Cloud          │        │ • Databases          │ │
 │  └──────────────────┘        └──────────────────────┘ │
 │           ↓                            ↓               │
