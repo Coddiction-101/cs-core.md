@@ -15,7 +15,7 @@ This repository contains **two comprehensive guides** that cover everything you 
 │         COMPLETE TECH KNOWLEDGE ECOSYSTEM               │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  ┌──────────────────┐        ┌──────────────────────┐ │
+│  ┌──────────────────┐        ┌──────────────────────┐   │
 │  │  IT FUNDAMENTALS │        │ CS FUNDAMENTALS      │ │
 │  ├──────────────────┤        ├──────────────────────┤ │
 │  │ • Hardware       │        │ • Programming        │ │
