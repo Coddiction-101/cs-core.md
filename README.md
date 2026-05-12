@@ -565,18 +565,6 @@ Tech Lead             → Guide teams
 
 ---
 
-## 🤝 Contributing
-
-Found a mistake? Want to improve explanations? Have suggestions?
-
-**How to contribute:**
-1. Open an issue describing the problem
-2. Fork and make changes
-3. Submit a pull request
-4. Help us improve for others!
-
----
-
 ## 📄 License
 
 This guide is provided as educational material. Feel free to:
