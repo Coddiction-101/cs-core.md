@@ -565,16 +565,6 @@ Tech Lead             → Guide teams
 
 ---
 
-## 📄 License
-
-This guide is provided as educational material. Feel free to:
-- ✅ Use for personal learning
-- ✅ Share with friends and students
-- ✅ Modify for your needs
-- ✅ Share in online communities
-
----
-
 ## 🎯 TL;DR - Quick Start
 
 ```
