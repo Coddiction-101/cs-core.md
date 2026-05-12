@@ -36,7 +36,7 @@ This repository contains **two comprehensive guides** that cover everything you 
 ## 📚 Two Main Guides
 
 ### **1. IT FUNDAMENTALS** 🖥️
-**File:** `IT_FUNDAMENTALS.md`
+**File:** `IT-Core.md`
 
 **What You'll Learn:**
 - How computers actually work (hardware inside)
