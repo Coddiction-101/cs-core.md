@@ -21,7 +21,7 @@ This repository contains **two comprehensive guides** that cover everything you 
 │  │ • Hardware       │        │ • Programming        │   │
 │  │ • Software       │        │ • Problem Solving    │   │
 │  │ • Networks       │        │ • Algorithms         │   │
-│  │ • Systems        │        │ • Data Structures    │ │
+│  │ • Systems        │        │ • Data Structures    │   │
 │  │ • Security       │        │ • OOP/FP             │ │
 │  │ • Cloud          │        │ • Databases          │ │
 │  └──────────────────┘        └──────────────────────┘ │
