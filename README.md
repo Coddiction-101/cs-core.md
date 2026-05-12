@@ -26,7 +26,7 @@ This repository contains **two comprehensive guides** that cover everything you 
 │  │ • Cloud          │        │ • Databases          │   │
 │  └──────────────────┘        └──────────────────────┘   │
 │           ↓                            ↓                │
-│     "How things work"        "How to solve problems"   │
+│     "How things work"        "How to solve problems"    │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
