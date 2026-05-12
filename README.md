@@ -62,7 +62,7 @@ This repository contains **two comprehensive guides** that cover everything you 
 ---
 
 ### **2. CS FUNDAMENTALS** 💻
-**File:** `CS_FUNDAMENTALS.md`
+**File:** `CS-funda.md`
 
 **What You'll Learn:**
 - What programming is (zero coding experience needed)
